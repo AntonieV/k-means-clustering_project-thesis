@@ -1,0 +1,12 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Einleitung}{3}{section.1}%
+\contentsline {section}{\numberline {2}Berechnung und Bedeutung des K-Means}{4}{section.2}%
+\contentsline {section}{\numberline {3}K-Means-Basisalgorithmus nach Lloyd}{5}{section.3}%
+\contentsline {section}{\numberline {4}Ward-Algorithmus}{7}{section.4}%
+\contentsline {section}{\numberline {5}BFR-Algorithmus}{7}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Initialisierung}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Datenanalyse}{8}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Distanzmaß}{10}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Kritische Betrachtung des BFR-Algorithmus}{12}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Ausblick}{13}{section.6}%
+\contentsline {section}{Literaturverzeichnis}{16}{section*.6}%
